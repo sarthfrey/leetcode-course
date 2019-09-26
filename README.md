@@ -81,7 +81,7 @@ To be honest, sorting questions are pretty rare. I still can't for the life of m
 **Linked List**
 
 - For learning
-  - Learn about [linked lists](https://www.geeksforgeeks.org/linked-list-set-1-introduction/), 
+  - Learn about [linked lists](https://www.geeksforgeeks.org/linked-list-set-1-introduction/)
   - [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) will get you familiar with linked lists
   - [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) shows you how to do deletion
   - [Reverse linked list](https://leetcode.com/problems/reverse-linked-list/) is a good exercise regardless, but if you do it recursively I think you have a solid understanding of these
