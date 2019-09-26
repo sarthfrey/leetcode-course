@@ -179,8 +179,8 @@ This is the part where you make sure you know your stuff. Previously, you knew w
 
 Do the following.
 
-- Divide and conquer approach (often involves assuming parts of the inputs are solved and then merging them, recursively solving each part)
-- Greedy algorithm approach (often involves sorting first, and maximizing/minimizing some heuristic)
+- Read more on divide and conquer approach (often involves assuming parts of the inputs are solved and then merging them, recursively solving each part)
+- Read more on greedy algorithm approach (often involves sorting first, and maximizing/minimizing some heuristic)
 - Practice more DP/Graphs
 - Do heavily liked LeetCode mediums/hards
 - **Do mock interviews with friends!** Communication is an [underrated skill](https://twitter.com/SarthFrey/status/1175429238473801728)
