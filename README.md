@@ -186,7 +186,7 @@ Do the following.
 - Practice more DP/Graphs
 - Do heavily liked LeetCode mediums/hards
 - LeetCode has great SQL and concurrency questions too, highly recommend trying some
-- **Do mock interviews with friends!** Communication is an [underrated skill](https://twitter.com/SarthFrey/status/1175429238473801728)
+- **Do mock interviews with friends!** Communication is an [underrated skill](https://twitter.com/SarthFrey/status/1175429238473801728), and extra points for practicing on a whiteboard
 - Once you learn all this, in the future you need only refresh your knowledge, my friends and I do around 15-20 problems at the beginning of each job search, usually starting ~1 month before we expect any interviews
 
 
