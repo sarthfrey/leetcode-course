@@ -135,7 +135,7 @@ To be honest, sorting questions are pretty rare. I still can't for the life of m
 
 **Dynamic Programming**
 
-This took me a long time to learn properly, and I don't think I really truly understood it until I took an algorithms course at school. Approximately 75% of my LeetCode time is dedicated to DP, and now I feel more comfortable with it than other concepts. Note that a lot of tech companies ask this stuff.
+This took me a long time to learn properly, and I don't think I really truly understood it until I took an algorithms course at school. Approximately 50% of my LeetCode time is dedicated to DP, and now I feel more comfortable with it than other concepts. Note that a lot of tech companies ask this stuff.
 
 - For learning
   - I haven't found many great resources for DP but I'll defer to the "Basic Concepts" section of the [DP guide](https://www.geeksforgeeks.org/dynamic-programming/#concepts) at Geeks for Geeks
@@ -176,6 +176,7 @@ Do the following.
 - Practice more DP/Graphs
 - Do heavily liked LeetCode mediums/hards
 - **Do mock interviews with friends!** Communication is an [underrated skill](https://twitter.com/SarthFrey/status/1175429238473801728)
+- Once you learn all this, in the future you need only refresh your knowledge, my friends and I do around 15-20 problems at the beginning of each job search, usually starting ~1 month before we expect any interviews
 
 
 
