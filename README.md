@@ -46,7 +46,7 @@ I will add more to this list, but for now I think those 5 are good enough to tes
 
 Often times in programming, we work with *data structures* which are simply objects that have rules for how data is accessed and added. Typically data structures will have an *insertion time*, *deletion time*, and a *lookup time*. For more on data structure basic, go [here](https://www.geeksforgeeks.org/inbuilt-data-structures-python/). Now we can dive into commonly seen basic data structures and good LeetCode questions to make use of them. We often see specific algorithms tied to each of these structures.
 
-**Note**: For each of these data structures, you should implement them locally with classes and everything. To learn more about each of these just use Google. Do this before trying the LeetCode questions.
+**Important Note**: For each of these data structures, you should implement them locally with classes and everything. To learn more about each of these just use Google. Do this before trying the LeetCode questions.
 
 **Linked List**
 
@@ -62,7 +62,7 @@ Often times in programming, we work with *data structures* which are simply obje
 - [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) is another prototypical question
 - [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) is a fantastic data structure question which combines many concepts together, also circular buffers are widely used everywhere, the most popular big data processing frameworks use them as an example
 - [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) demonstrates the common "flattened list" type problem, but I highly recommend also solving this one with a generator, it's a lot of fun and is also ideal, `yield from` in Python is awesome :)
-- [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/solution/) is fun because there are so many ways of doing it, note that $O(n)$ time with $O(1)$ space is possible!
+- [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/solution/) is fun because there are so many ways of doing it, note that O(n) time with O(1) space is possible!
 
 **Trees**
 
