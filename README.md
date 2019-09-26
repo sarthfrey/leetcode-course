@@ -1,6 +1,6 @@
 # LeetCode Course
 
-A guide to crushing tech interviews. At some point I will be expanding upon concepts in this general guide, but I'm quickly typing this up now to help some friends.
+At some point I will be expanding upon concepts in this general guide, but I'm quickly typing this up now to help some friends.
 
 ### How to use this Doc
 
