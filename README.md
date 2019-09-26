@@ -169,7 +169,11 @@ If you're strapped for time then don't spend much time on this, just learn trave
 
 ### Step 4: Consolidate Knowledge
 
-This is the part where you make sure you know you stuff. Previously, you knew what data structure you needed before trying the question. Now you should pick 5-10 random mediums and do them. If you are struggling, then either go back to step 3 or take a breather, read through the solutions, and go back later. If you find you are struggling on a certain kind of problem use the "tags" feature in LeetCode to look for specific problem types. Also, if you have an interview with a specific company coming up, LeetCode compiles a list of questions that specific companies have asked. I would not count on memorizing solutions to those problems - it's unlikely to help, and even if you get lucky then it's not sustainable for the future - so put in the work. That said, I do recommend looking at those lists to get an idea of what kinds of questions your interviewer might favour, and if you see some good problems on the list for a company you have an interview with then definitely prefer doing those problems over others. Also, don't violate NDAs, period.
+This is the part where you make sure you know your stuff. Previously, you knew what data structure you needed before trying the question. Now you should pick 5-10 random mediums and do them. If you are struggling, then either go back to step 3 or take a breather, read through the solutions, and go back later. Here are some tips for general LeetCode use.
+
+- If you find you are struggling on a certain kind of problem use the "tags" feature in LeetCode to look for specific problem types
+- If you have an interview with a specific company coming up, LeetCode compiles a list of questions that specific companies have asked. I would not count on memorizing solutions to those problems - it's unlikely to help, and even if you get lucky then it's not sustainable for the future - so put in the work
+- That said, I do recommend looking at those lists to get an idea of what kinds of questions your interviewer might favour, and if you see some good problems on the list for a company you have an interview with then definitely prefer doing those problems over others
 
 ### Step 5: Next Steps
 
