@@ -18,7 +18,7 @@ You will need:
 
 ### Step 1: Optionally Learn Python
 
-Python is the best language for interviews because it is quick to write, readable, and yet is still used heavily in industry.
+Python is the best language for interviews because it's quick to write, it's readable, and it's heavily used in industry.
 
 What to learn:
 
