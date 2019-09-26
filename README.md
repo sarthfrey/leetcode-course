@@ -19,7 +19,7 @@ You will need:
 What:
 
 - Basic syntax (variables math, strings, lists, sets, dicts, printing, functions, classes, loops, ...)
-- Runtime + Space complexity concepts, [here](https://medium.com/karuna-sehgal/a-simplified-explanation-of-the-big-o-notation-82523585e835) or [here](https://stackabuse.com/big-o-notation-and-algorithm-analysis-with-python-examples/)
+- Runtime + Space complexity concepts, [here](https://learnxinyminutes.com/docs/asymptotic-notation/) or [here](https://medium.com/karuna-sehgal/a-simplified-explanation-of-the-big-o-notation-82523585e835) or [here](https://stackabuse.com/big-o-notation-and-algorithm-analysis-with-python-examples/)
 - I also recommend you learn generators, coroutines, list comprehension, useful builtins (sorted, breakpoint, zip, enumerate, etc) as knowing this can impress interviewers but more importantly, make you more effective at coding
 
 How:
