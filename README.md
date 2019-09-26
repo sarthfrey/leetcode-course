@@ -53,7 +53,7 @@ At this point, many people would encourage you to start reading up about algorit
 Here is a list of simple problems. You will notice that the problems cover simple data structures like lists and dictionaries, which is why they aren't covered in the next step. Make sure you at least know those two before diving in!
 
 - [Two Sum](https://leetcode.com/problems/two-sum/) will teach you about how using data structures can often improve runtime
-- [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) shows you that having this sorted can be useful
+- [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) shows you that having things already sorted can be useful
 - [Rotate Array](https://leetcode.com/problems/rotate-array/) is a great example of how you can take an easy question and make it harder by posing follow up questions (very common in interviews!)
 - [Best Time to Buy a Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) lays the groundwork for something magical, dynamic programming
 - [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/), while meme'ed, can teach some unlucky folks (including me 7 years ago) that control flow requires some thought
