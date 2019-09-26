@@ -4,7 +4,7 @@ At some point I will be expanding upon concepts in this general guide, but I'm q
 
 ### How to use this Doc
 
-At any step, feel free to continue to any later step. That said, this stuff is inherently a graph of knowledge and so it is not well presented linearly. However, at the very least, you can trust that following this guide in a linear fashion will be a valid progression strategy.
+At any step, feel free to continue to any later step. That said, this stuff is inherently a graph of knowledge and so it's not well suited to linear presentation. However, at the very least, you can trust that following this guide in a linear fashion will be a valid progression strategy.
 
 ### Step 0: Requirements
 
