@@ -16,9 +16,11 @@ You will need:
 2. The latest version of Python, downloadable [here](https://www.python.org/)
 3. This doc + internet connection
 
-### Step 1: Learn Python
+### Step 1: Optionally Learn Python
 
-What:
+Python is the best language for interviews because it is quick to write, readable, and yet is still used heavily in industry.
+
+What to learn:
 
 - Basic syntax
   - Variables
@@ -34,7 +36,7 @@ What:
 - I also recommend you learn generators, coroutines, list comprehension, useful builtins (sorted, breakpoint, zip, enumerate, etc) as knowing this can impress interviewers but more importantly, make you more effective at coding
 - It will take many years to have intuition for what's pythonic vs not, but at the very least learn what I've mentioned here
 
-How:
+How to learn:
 
 - If you have very limited programming experience start [here](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers), otherwise continue
   - I learned Python [here](https://cscircles.cemc.uwaterloo.ca/) when I was 12 and to this day it's the simplest intro I've seen
