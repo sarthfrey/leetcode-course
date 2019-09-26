@@ -1,5 +1,7 @@
 # LeetCode Course
 
+This is a course designed to ramp up an individual ASAP to crush tech interviews.
+
 At some point I will be expanding upon concepts in this general guide, but I'm quickly typing this up now to help some friends.
 
 ### How to use this Doc
