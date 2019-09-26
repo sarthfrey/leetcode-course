@@ -10,7 +10,7 @@ At any step, feel free to continue to any later step. That said, this stuff is i
 
 You will need:
 
-1. A [LeetCode](https://leetcode.com/) account, ideally with premium (you can share with friends)
+1. A [LeetCode](https://leetcode.com/) account, ideally with premium (you can share with friends and use the "session" feature to differentiate yourselves)
 2. The latest version of Python, downloadable [here](https://www.python.org/)
 3. This doc + internet connection
 
