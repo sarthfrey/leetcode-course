@@ -181,7 +181,7 @@ This is the part where you make sure you know your stuff. Previously, you knew w
 
 Do the following.
 
-- Read more on divide and conquer approach (often involves assuming parts of the inputs are solved and then merging them, recursively solving each part)
+- Read more on divide and conquer approach, but tbh if you know merge sort this is easy (often involves assuming parts of the inputs are solved and then merging them, recursively solving each part)
 - Read more on greedy algorithm approach (often involves sorting first, and maximizing/minimizing some heuristic)
 - Practice more DP/Graphs
 - Do heavily liked LeetCode mediums/hards
