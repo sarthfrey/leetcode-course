@@ -94,6 +94,7 @@ To be honest, sorting questions are pretty rare. I still can't for the life of m
 
 - For learning
   - Learn about the [stack](https://www.geeksforgeeks.org/stack-data-structure-introduction-program/) and [queue](https://www.geeksforgeeks.org/queue-set-1introduction-and-array-implementation/)
+  - Check out `Stacks and Queues.ipynb` in this repo for an example Python implementation, note that a node implementation is also valid, and ideally you also have accessors
   - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) is a classic stack question and often times gets extended to make hard questions
   - [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) is another prototypical question
   - [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) is a fantastic data structure question which combines many concepts together, also circular buffers are widely used everywhere, the most popular big data processing frameworks use them as an example, refer to [this](https://www.geeksforgeeks.org/circular-linked-list/)
