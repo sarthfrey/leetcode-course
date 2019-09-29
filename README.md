@@ -107,6 +107,7 @@ To be honest, sorting questions are pretty rare. I still can't for the life of m
 
 - For learning
   - Read up on the binary tree intro [here](https://www.geeksforgeeks.org/binary-tree-data-structure/#Introduction) and implement locally
+  - Check out `Binary Trees.ipynb` in this repo for an example Python implementation
   - [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree) teaches you about BSTs (not the same as binary trees)
   - [Cousins in a Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) shows you how to breadth first search on trees
   - [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) is a common "comparison" question
